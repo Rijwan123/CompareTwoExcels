@@ -1,3 +1,8 @@
+# Excel Compare Tool
+# - Compares large Excel files using chunking + multithreading for performance
+# - Normalizes values (text/date/null/whitespace) to reduce false mismatches
+# - Supports row alignment using a key column (recommended) or row order
+# - Outputs: mismatches_<timestamp>.csv, summary.json
 # Not supported -  row alignment using a key column (recommended) or row order
 
 import os
