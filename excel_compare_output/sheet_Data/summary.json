@@ -1,0 +1,235 @@
+{
+  "sheet": "Data",
+  "overall_status": "FAIL",
+  "stats": {
+    "rows_compared": 1000,
+    "common_columns": 49,
+    "mismatch_cells": 0,
+    "missing_rows_file2": 0,
+    "missing_rows_file1": 0,
+    "threads": 4,
+    "chunk_size": 5000,
+    "compare_seconds": 0.02
+  },
+  "structure": {
+    "structure_fail": true,
+    "missing_columns": [
+      "C50"
+    ],
+    "extra_columns": [
+      "Extra_Col"
+    ],
+    "reordered_columns": [
+      {
+        "column": "Notes",
+        "reference_position": 7,
+        "target_position": 49
+      },
+      {
+        "column": "Percent",
+        "reference_position": 8,
+        "target_position": 7
+      },
+      {
+        "column": "Flag",
+        "reference_position": 9,
+        "target_position": 8
+      },
+      {
+        "column": "C11",
+        "reference_position": 10,
+        "target_position": 9
+      },
+      {
+        "column": "C12",
+        "reference_position": 11,
+        "target_position": 10
+      },
+      {
+        "column": "C13",
+        "reference_position": 12,
+        "target_position": 11
+      },
+      {
+        "column": "C14",
+        "reference_position": 13,
+        "target_position": 12
+      },
+      {
+        "column": "C15",
+        "reference_position": 14,
+        "target_position": 13
+      },
+      {
+        "column": "C16",
+        "reference_position": 15,
+        "target_position": 14
+      },
+      {
+        "column": "C17",
+        "reference_position": 16,
+        "target_position": 15
+      },
+      {
+        "column": "C18",
+        "reference_position": 17,
+        "target_position": 16
+      },
+      {
+        "column": "C19",
+        "reference_position": 18,
+        "target_position": 17
+      },
+      {
+        "column": "C20",
+        "reference_position": 19,
+        "target_position": 18
+      },
+      {
+        "column": "C21",
+        "reference_position": 20,
+        "target_position": 19
+      },
+      {
+        "column": "C22",
+        "reference_position": 21,
+        "target_position": 20
+      },
+      {
+        "column": "C23",
+        "reference_position": 22,
+        "target_position": 21
+      },
+      {
+        "column": "C24",
+        "reference_position": 23,
+        "target_position": 22
+      },
+      {
+        "column": "C25",
+        "reference_position": 24,
+        "target_position": 23
+      },
+      {
+        "column": "C26",
+        "reference_position": 25,
+        "target_position": 24
+      },
+      {
+        "column": "C27",
+        "reference_position": 26,
+        "target_position": 25
+      },
+      {
+        "column": "C28",
+        "reference_position": 27,
+        "target_position": 26
+      },
+      {
+        "column": "C29",
+        "reference_position": 28,
+        "target_position": 27
+      },
+      {
+        "column": "C30",
+        "reference_position": 29,
+        "target_position": 28
+      },
+      {
+        "column": "C31",
+        "reference_position": 30,
+        "target_position": 29
+      },
+      {
+        "column": "C32",
+        "reference_position": 31,
+        "target_position": 30
+      },
+      {
+        "column": "C33",
+        "reference_position": 32,
+        "target_position": 31
+      },
+      {
+        "column": "C34",
+        "reference_position": 33,
+        "target_position": 32
+      },
+      {
+        "column": "C35",
+        "reference_position": 34,
+        "target_position": 33
+      },
+      {
+        "column": "C36",
+        "reference_position": 35,
+        "target_position": 34
+      },
+      {
+        "column": "C37",
+        "reference_position": 36,
+        "target_position": 35
+      },
+      {
+        "column": "C38",
+        "reference_position": 37,
+        "target_position": 36
+      },
+      {
+        "column": "C39",
+        "reference_position": 38,
+        "target_position": 37
+      },
+      {
+        "column": "C40",
+        "reference_position": 39,
+        "target_position": 38
+      },
+      {
+        "column": "C41",
+        "reference_position": 40,
+        "target_position": 39
+      },
+      {
+        "column": "C42",
+        "reference_position": 41,
+        "target_position": 40
+      },
+      {
+        "column": "C43",
+        "reference_position": 42,
+        "target_position": 41
+      },
+      {
+        "column": "C44",
+        "reference_position": 43,
+        "target_position": 42
+      },
+      {
+        "column": "C45",
+        "reference_position": 44,
+        "target_position": 43
+      },
+      {
+        "column": "C46",
+        "reference_position": 45,
+        "target_position": 44
+      },
+      {
+        "column": "C47",
+        "reference_position": 46,
+        "target_position": 45
+      },
+      {
+        "column": "C48",
+        "reference_position": 47,
+        "target_position": 46
+      },
+      {
+        "column": "C49",
+        "reference_position": 48,
+        "target_position": 47
+      }
+    ]
+  }
+}
