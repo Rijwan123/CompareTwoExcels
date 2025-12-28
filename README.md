@@ -86,7 +86,7 @@ Contains **both structure and data mismatches**:
 
 ## 🚀 How to Run the Code
 
-### 1️⃣ Prerequisites
+1️⃣ Prerequisites
 
 Install dependencies:
 ```bash
