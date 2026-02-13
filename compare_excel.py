@@ -307,5 +307,5 @@ def write_outputs(res, outdir, sheet):
 
 if __name__ == "__main__":
     main()
-#python ComaperExcels.py --file1 Excel_File_1.xlsx --file2 Excel_File_2.xlsx 
+#python ComaperExcels.py --file1 Excel_File_1.xlsx --file2 Excel_File_2.xlsx
 

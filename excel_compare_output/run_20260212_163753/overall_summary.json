@@ -10,11 +10,11 @@
       "missing_rows_file1": 0,
       "threads": 4,
       "chunk_size": 5000,
-      "compare_seconds": 0.015
+      "compare_seconds": 0.021
     }
   },
   "overall_stats": {
     "common_sheets": 1,
-    "generated_at": "2026-02-12 16:37:42.434988"
+    "generated_at": "2026-02-12 16:37:55.449534"
   }
 }

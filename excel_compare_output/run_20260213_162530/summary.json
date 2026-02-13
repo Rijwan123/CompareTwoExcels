@@ -1,0 +1,19 @@
+{
+  "sheet": null,
+  "stats": {
+    "rows_compared": 1000,
+    "common_columns": 50,
+    "extra_columns_file1": 0,
+    "extra_columns_file2": 0,
+    "mismatch_cells": 124,
+    "missing_rows_file2": 0,
+    "missing_rows_file1": 0,
+    "threads": 4,
+    "chunk_size": 5000,
+    "compare_seconds": 0.021
+  },
+  "extra_columns_file1": [],
+  "extra_columns_file2": [],
+  "missing_in_file2": [],
+  "missing_in_file1": []
+}
