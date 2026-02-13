@@ -1,0 +1,125 @@
+﻿row_index,column,value_file1,value_file2
+49,Name,User_0050,User_0050_CHG
+99,Name,User_0100,User_0100_CHG
+149,Name,User_0150,User_0150_CHG
+199,Name,User_0200,User_0200_CHG
+249,Name,User_0250,User_0250_CHG
+299,Name,User_0300,User_0300_CHG
+349,Name,User_0350,User_0350_CHG
+399,Name,User_0400,User_0400_CHG
+449,Name,User_0450,User_0450_CHG
+499,Name,User_0500,User_0500_CHG
+549,Name,User_0550,User_0550_CHG
+599,Name,User_0600,User_0600_CHG
+649,Name,User_0650,User_0650_CHG
+699,Name,User_0700,User_0700_CHG
+749,Name,User_0750,User_0750_CHG
+799,Name,User_0800,User_0800_CHG
+849,Name,User_0850,User_0850_CHG
+899,Name,User_0900,User_0900_CHG
+949,Name,User_0950,User_0950_CHG
+999,Name,User_1000,User_1000_CHG
+124,Active,Yes,No
+249,Active,No,Yes
+374,Active,Yes,No
+499,Active,No,Yes
+624,Active,Yes,No
+749,Active,No,Yes
+874,Active,Yes,No
+999,Active,No,Yes
+49,JoinDate,2024-02-19,2024-02-20
+99,JoinDate,2024-04-09,2024-04-10
+149,JoinDate,2024-05-29,2024-05-30
+199,JoinDate,2024-07-18,2024-07-19
+249,JoinDate,2024-09-06,2024-09-07
+299,JoinDate,2024-10-26,2024-10-27
+349,JoinDate,2024-12-15,2024-12-16
+399,JoinDate,2025-02-03,2025-02-04
+449,JoinDate,2025-03-25,2025-03-26
+499,JoinDate,2025-05-14,2025-05-15
+549,JoinDate,2025-07-03,2025-07-04
+599,JoinDate,2025-08-22,2025-08-23
+649,JoinDate,2025-10-11,2025-10-12
+699,JoinDate,2025-11-30,2025-12-01
+749,JoinDate,2026-01-19,2026-01-20
+799,JoinDate,2026-03-10,2026-03-11
+849,JoinDate,2026-04-29,2026-04-30
+899,JoinDate,2026-06-18,2026-06-19
+949,JoinDate,2026-08-07,2026-08-08
+999,JoinDate,2026-09-26,2026-09-27
+49,Amount,57.1,69.44
+99,Amount,114.2,126.54
+149,Amount,171.3,183.64
+199,Amount,228.4,240.74
+249,Amount,285.5,297.84
+299,Amount,342.6,354.94
+349,Amount,397.95,410.29
+399,Amount,455.05,467.39
+449,Amount,512.15,524.49
+499,Amount,569.25,581.59
+549,Amount,626.35,638.69
+599,Amount,683.45,695.79
+649,Amount,740.55,752.89
+699,Amount,795.9,808.24
+749,Amount,853.0,865.34
+799,Amount,910.1,922.44
+849,Amount,967.2,979.54
+899,Amount,1024.3,1036.64
+949,Amount,1081.4,1093.74
+999,Amount,1138.5,1150.84
+124,Category,Retail,Internal
+249,Category,Retail,Internal
+374,Category,Retail,Internal
+499,Category,Retail,Internal
+624,Category,Retail,Internal
+749,Category,Retail,Internal
+874,Category,Retail,Internal
+999,Category,Retail,Internal
+49,Notes,Needs review,Needs review *
+99,Notes,"Contains,comma","Contains,comma *"
+149,Notes,Line1 Line2,Line1 Line2 *
+199,Notes,Unicode-✓,Unicode-✓ *
+249,Notes,Currency:$€₹,Currency:$€₹ *
+299,Notes,"Quoted ""text""","Quoted ""text"" *"
+349,Notes,OK,OK *
+399,Notes,Needs review,Needs review *
+449,Notes,"Contains,comma","Contains,comma *"
+499,Notes,Line1 Line2,Line1 Line2 *
+549,Notes,Unicode-✓,Unicode-✓ *
+599,Notes,Currency:$€₹,Currency:$€₹ *
+649,Notes,"Quoted ""text""","Quoted ""text"" *"
+699,Notes,OK,OK *
+749,Notes,Needs review,Needs review *
+799,Notes,"Contains,comma","Contains,comma *"
+849,Notes,Line1 Line2,Line1 Line2 *
+899,Notes,Unicode-✓,Unicode-✓ *
+949,Notes,Currency:$€₹,Currency:$€₹ *
+999,Notes,"Quoted ""text""","Quoted ""text"" *"
+49,C20,23.81,TXT_DIFF
+99,C20,47.619,TXT_DIFF
+149,C20,71.429,TXT_DIFF
+199,C20,95.238,TXT_DIFF
+249,C20,119.048,TXT_DIFF
+299,C20,142.857,TXT_DIFF
+349,C20,166.667,TXT_DIFF
+399,C20,190.476,TXT_DIFF
+449,C20,214.286,TXT_DIFF
+499,C20,238.095,TXT_DIFF
+549,C20,261.905,TXT_DIFF
+599,C20,285.714,TXT_DIFF
+649,C20,309.524,TXT_DIFF
+699,C20,333.333,TXT_DIFF
+749,C20,357.143,TXT_DIFF
+799,C20,380.952,TXT_DIFF
+849,C20,404.762,TXT_DIFF
+899,C20,428.571,TXT_DIFF
+949,C20,452.381,TXT_DIFF
+999,C20,476.19,TXT_DIFF
+124,C35,X379,
+249,C35,X758,
+374,C35,X138,
+499,C35,X517,
+624,C35,X896,
+749,C35,X276,
+874,C35,X655,
+999,C35,X35,

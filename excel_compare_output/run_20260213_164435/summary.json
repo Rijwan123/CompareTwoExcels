@@ -1,0 +1,761 @@
+{
+  "missing_in_file2": [],
+  "missing_in_file1": [],
+  "extra_columns_file1": [],
+  "extra_columns_file2": [],
+  "mismatches": [
+    {
+      "row_index": 49,
+      "column": "Name",
+      "value_file1": "User_0050",
+      "value_file2": "User_0050_CHG"
+    },
+    {
+      "row_index": 99,
+      "column": "Name",
+      "value_file1": "User_0100",
+      "value_file2": "User_0100_CHG"
+    },
+    {
+      "row_index": 149,
+      "column": "Name",
+      "value_file1": "User_0150",
+      "value_file2": "User_0150_CHG"
+    },
+    {
+      "row_index": 199,
+      "column": "Name",
+      "value_file1": "User_0200",
+      "value_file2": "User_0200_CHG"
+    },
+    {
+      "row_index": 249,
+      "column": "Name",
+      "value_file1": "User_0250",
+      "value_file2": "User_0250_CHG"
+    },
+    {
+      "row_index": 299,
+      "column": "Name",
+      "value_file1": "User_0300",
+      "value_file2": "User_0300_CHG"
+    },
+    {
+      "row_index": 349,
+      "column": "Name",
+      "value_file1": "User_0350",
+      "value_file2": "User_0350_CHG"
+    },
+    {
+      "row_index": 399,
+      "column": "Name",
+      "value_file1": "User_0400",
+      "value_file2": "User_0400_CHG"
+    },
+    {
+      "row_index": 449,
+      "column": "Name",
+      "value_file1": "User_0450",
+      "value_file2": "User_0450_CHG"
+    },
+    {
+      "row_index": 499,
+      "column": "Name",
+      "value_file1": "User_0500",
+      "value_file2": "User_0500_CHG"
+    },
+    {
+      "row_index": 549,
+      "column": "Name",
+      "value_file1": "User_0550",
+      "value_file2": "User_0550_CHG"
+    },
+    {
+      "row_index": 599,
+      "column": "Name",
+      "value_file1": "User_0600",
+      "value_file2": "User_0600_CHG"
+    },
+    {
+      "row_index": 649,
+      "column": "Name",
+      "value_file1": "User_0650",
+      "value_file2": "User_0650_CHG"
+    },
+    {
+      "row_index": 699,
+      "column": "Name",
+      "value_file1": "User_0700",
+      "value_file2": "User_0700_CHG"
+    },
+    {
+      "row_index": 749,
+      "column": "Name",
+      "value_file1": "User_0750",
+      "value_file2": "User_0750_CHG"
+    },
+    {
+      "row_index": 799,
+      "column": "Name",
+      "value_file1": "User_0800",
+      "value_file2": "User_0800_CHG"
+    },
+    {
+      "row_index": 849,
+      "column": "Name",
+      "value_file1": "User_0850",
+      "value_file2": "User_0850_CHG"
+    },
+    {
+      "row_index": 899,
+      "column": "Name",
+      "value_file1": "User_0900",
+      "value_file2": "User_0900_CHG"
+    },
+    {
+      "row_index": 949,
+      "column": "Name",
+      "value_file1": "User_0950",
+      "value_file2": "User_0950_CHG"
+    },
+    {
+      "row_index": 999,
+      "column": "Name",
+      "value_file1": "User_1000",
+      "value_file2": "User_1000_CHG"
+    },
+    {
+      "row_index": 124,
+      "column": "Active",
+      "value_file1": "Yes",
+      "value_file2": "No"
+    },
+    {
+      "row_index": 249,
+      "column": "Active",
+      "value_file1": "No",
+      "value_file2": "Yes"
+    },
+    {
+      "row_index": 374,
+      "column": "Active",
+      "value_file1": "Yes",
+      "value_file2": "No"
+    },
+    {
+      "row_index": 499,
+      "column": "Active",
+      "value_file1": "No",
+      "value_file2": "Yes"
+    },
+    {
+      "row_index": 624,
+      "column": "Active",
+      "value_file1": "Yes",
+      "value_file2": "No"
+    },
+    {
+      "row_index": 749,
+      "column": "Active",
+      "value_file1": "No",
+      "value_file2": "Yes"
+    },
+    {
+      "row_index": 874,
+      "column": "Active",
+      "value_file1": "Yes",
+      "value_file2": "No"
+    },
+    {
+      "row_index": 999,
+      "column": "Active",
+      "value_file1": "No",
+      "value_file2": "Yes"
+    },
+    {
+      "row_index": 49,
+      "column": "JoinDate",
+      "value_file1": "2024-02-19",
+      "value_file2": "2024-02-20"
+    },
+    {
+      "row_index": 99,
+      "column": "JoinDate",
+      "value_file1": "2024-04-09",
+      "value_file2": "2024-04-10"
+    },
+    {
+      "row_index": 149,
+      "column": "JoinDate",
+      "value_file1": "2024-05-29",
+      "value_file2": "2024-05-30"
+    },
+    {
+      "row_index": 199,
+      "column": "JoinDate",
+      "value_file1": "2024-07-18",
+      "value_file2": "2024-07-19"
+    },
+    {
+      "row_index": 249,
+      "column": "JoinDate",
+      "value_file1": "2024-09-06",
+      "value_file2": "2024-09-07"
+    },
+    {
+      "row_index": 299,
+      "column": "JoinDate",
+      "value_file1": "2024-10-26",
+      "value_file2": "2024-10-27"
+    },
+    {
+      "row_index": 349,
+      "column": "JoinDate",
+      "value_file1": "2024-12-15",
+      "value_file2": "2024-12-16"
+    },
+    {
+      "row_index": 399,
+      "column": "JoinDate",
+      "value_file1": "2025-02-03",
+      "value_file2": "2025-02-04"
+    },
+    {
+      "row_index": 449,
+      "column": "JoinDate",
+      "value_file1": "2025-03-25",
+      "value_file2": "2025-03-26"
+    },
+    {
+      "row_index": 499,
+      "column": "JoinDate",
+      "value_file1": "2025-05-14",
+      "value_file2": "2025-05-15"
+    },
+    {
+      "row_index": 549,
+      "column": "JoinDate",
+      "value_file1": "2025-07-03",
+      "value_file2": "2025-07-04"
+    },
+    {
+      "row_index": 599,
+      "column": "JoinDate",
+      "value_file1": "2025-08-22",
+      "value_file2": "2025-08-23"
+    },
+    {
+      "row_index": 649,
+      "column": "JoinDate",
+      "value_file1": "2025-10-11",
+      "value_file2": "2025-10-12"
+    },
+    {
+      "row_index": 699,
+      "column": "JoinDate",
+      "value_file1": "2025-11-30",
+      "value_file2": "2025-12-01"
+    },
+    {
+      "row_index": 749,
+      "column": "JoinDate",
+      "value_file1": "2026-01-19",
+      "value_file2": "2026-01-20"
+    },
+    {
+      "row_index": 799,
+      "column": "JoinDate",
+      "value_file1": "2026-03-10",
+      "value_file2": "2026-03-11"
+    },
+    {
+      "row_index": 849,
+      "column": "JoinDate",
+      "value_file1": "2026-04-29",
+      "value_file2": "2026-04-30"
+    },
+    {
+      "row_index": 899,
+      "column": "JoinDate",
+      "value_file1": "2026-06-18",
+      "value_file2": "2026-06-19"
+    },
+    {
+      "row_index": 949,
+      "column": "JoinDate",
+      "value_file1": "2026-08-07",
+      "value_file2": "2026-08-08"
+    },
+    {
+      "row_index": 999,
+      "column": "JoinDate",
+      "value_file1": "2026-09-26",
+      "value_file2": "2026-09-27"
+    },
+    {
+      "row_index": 49,
+      "column": "Amount",
+      "value_file1": 57.1,
+      "value_file2": 69.44
+    },
+    {
+      "row_index": 99,
+      "column": "Amount",
+      "value_file1": 114.2,
+      "value_file2": 126.54
+    },
+    {
+      "row_index": 149,
+      "column": "Amount",
+      "value_file1": 171.3,
+      "value_file2": 183.64
+    },
+    {
+      "row_index": 199,
+      "column": "Amount",
+      "value_file1": 228.4,
+      "value_file2": 240.74
+    },
+    {
+      "row_index": 249,
+      "column": "Amount",
+      "value_file1": 285.5,
+      "value_file2": 297.84
+    },
+    {
+      "row_index": 299,
+      "column": "Amount",
+      "value_file1": 342.6,
+      "value_file2": 354.94
+    },
+    {
+      "row_index": 349,
+      "column": "Amount",
+      "value_file1": 397.95,
+      "value_file2": 410.29
+    },
+    {
+      "row_index": 399,
+      "column": "Amount",
+      "value_file1": 455.05,
+      "value_file2": 467.39
+    },
+    {
+      "row_index": 449,
+      "column": "Amount",
+      "value_file1": 512.15,
+      "value_file2": 524.49
+    },
+    {
+      "row_index": 499,
+      "column": "Amount",
+      "value_file1": 569.25,
+      "value_file2": 581.59
+    },
+    {
+      "row_index": 549,
+      "column": "Amount",
+      "value_file1": 626.35,
+      "value_file2": 638.69
+    },
+    {
+      "row_index": 599,
+      "column": "Amount",
+      "value_file1": 683.45,
+      "value_file2": 695.79
+    },
+    {
+      "row_index": 649,
+      "column": "Amount",
+      "value_file1": 740.55,
+      "value_file2": 752.89
+    },
+    {
+      "row_index": 699,
+      "column": "Amount",
+      "value_file1": 795.9,
+      "value_file2": 808.24
+    },
+    {
+      "row_index": 749,
+      "column": "Amount",
+      "value_file1": 853.0,
+      "value_file2": 865.34
+    },
+    {
+      "row_index": 799,
+      "column": "Amount",
+      "value_file1": 910.1,
+      "value_file2": 922.44
+    },
+    {
+      "row_index": 849,
+      "column": "Amount",
+      "value_file1": 967.2,
+      "value_file2": 979.54
+    },
+    {
+      "row_index": 899,
+      "column": "Amount",
+      "value_file1": 1024.3,
+      "value_file2": 1036.64
+    },
+    {
+      "row_index": 949,
+      "column": "Amount",
+      "value_file1": 1081.4,
+      "value_file2": 1093.74
+    },
+    {
+      "row_index": 999,
+      "column": "Amount",
+      "value_file1": 1138.5,
+      "value_file2": 1150.84
+    },
+    {
+      "row_index": 124,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 249,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 374,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 499,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 624,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 749,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 874,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 999,
+      "column": "Category",
+      "value_file1": "Retail",
+      "value_file2": "Internal"
+    },
+    {
+      "row_index": 49,
+      "column": "Notes",
+      "value_file1": "Needs review",
+      "value_file2": "Needs review *"
+    },
+    {
+      "row_index": 99,
+      "column": "Notes",
+      "value_file1": "Contains,comma",
+      "value_file2": "Contains,comma *"
+    },
+    {
+      "row_index": 149,
+      "column": "Notes",
+      "value_file1": "Line1 Line2",
+      "value_file2": "Line1 Line2 *"
+    },
+    {
+      "row_index": 199,
+      "column": "Notes",
+      "value_file1": "Unicode-\u2713",
+      "value_file2": "Unicode-\u2713 *"
+    },
+    {
+      "row_index": 249,
+      "column": "Notes",
+      "value_file1": "Currency:$\u20ac\u20b9",
+      "value_file2": "Currency:$\u20ac\u20b9 *"
+    },
+    {
+      "row_index": 299,
+      "column": "Notes",
+      "value_file1": "Quoted \"text\"",
+      "value_file2": "Quoted \"text\" *"
+    },
+    {
+      "row_index": 349,
+      "column": "Notes",
+      "value_file1": "OK",
+      "value_file2": "OK *"
+    },
+    {
+      "row_index": 399,
+      "column": "Notes",
+      "value_file1": "Needs review",
+      "value_file2": "Needs review *"
+    },
+    {
+      "row_index": 449,
+      "column": "Notes",
+      "value_file1": "Contains,comma",
+      "value_file2": "Contains,comma *"
+    },
+    {
+      "row_index": 499,
+      "column": "Notes",
+      "value_file1": "Line1 Line2",
+      "value_file2": "Line1 Line2 *"
+    },
+    {
+      "row_index": 549,
+      "column": "Notes",
+      "value_file1": "Unicode-\u2713",
+      "value_file2": "Unicode-\u2713 *"
+    },
+    {
+      "row_index": 599,
+      "column": "Notes",
+      "value_file1": "Currency:$\u20ac\u20b9",
+      "value_file2": "Currency:$\u20ac\u20b9 *"
+    },
+    {
+      "row_index": 649,
+      "column": "Notes",
+      "value_file1": "Quoted \"text\"",
+      "value_file2": "Quoted \"text\" *"
+    },
+    {
+      "row_index": 699,
+      "column": "Notes",
+      "value_file1": "OK",
+      "value_file2": "OK *"
+    },
+    {
+      "row_index": 749,
+      "column": "Notes",
+      "value_file1": "Needs review",
+      "value_file2": "Needs review *"
+    },
+    {
+      "row_index": 799,
+      "column": "Notes",
+      "value_file1": "Contains,comma",
+      "value_file2": "Contains,comma *"
+    },
+    {
+      "row_index": 849,
+      "column": "Notes",
+      "value_file1": "Line1 Line2",
+      "value_file2": "Line1 Line2 *"
+    },
+    {
+      "row_index": 899,
+      "column": "Notes",
+      "value_file1": "Unicode-\u2713",
+      "value_file2": "Unicode-\u2713 *"
+    },
+    {
+      "row_index": 949,
+      "column": "Notes",
+      "value_file1": "Currency:$\u20ac\u20b9",
+      "value_file2": "Currency:$\u20ac\u20b9 *"
+    },
+    {
+      "row_index": 999,
+      "column": "Notes",
+      "value_file1": "Quoted \"text\"",
+      "value_file2": "Quoted \"text\" *"
+    },
+    {
+      "row_index": 49,
+      "column": "C20",
+      "value_file1": 23.81,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 99,
+      "column": "C20",
+      "value_file1": 47.619,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 149,
+      "column": "C20",
+      "value_file1": 71.429,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 199,
+      "column": "C20",
+      "value_file1": 95.238,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 249,
+      "column": "C20",
+      "value_file1": 119.048,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 299,
+      "column": "C20",
+      "value_file1": 142.857,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 349,
+      "column": "C20",
+      "value_file1": 166.667,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 399,
+      "column": "C20",
+      "value_file1": 190.476,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 449,
+      "column": "C20",
+      "value_file1": 214.286,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 499,
+      "column": "C20",
+      "value_file1": 238.095,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 549,
+      "column": "C20",
+      "value_file1": 261.905,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 599,
+      "column": "C20",
+      "value_file1": 285.714,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 649,
+      "column": "C20",
+      "value_file1": 309.524,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 699,
+      "column": "C20",
+      "value_file1": 333.333,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 749,
+      "column": "C20",
+      "value_file1": 357.143,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 799,
+      "column": "C20",
+      "value_file1": 380.952,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 849,
+      "column": "C20",
+      "value_file1": 404.762,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 899,
+      "column": "C20",
+      "value_file1": 428.571,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 949,
+      "column": "C20",
+      "value_file1": 452.381,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 999,
+      "column": "C20",
+      "value_file1": 476.19,
+      "value_file2": "TXT_DIFF"
+    },
+    {
+      "row_index": 124,
+      "column": "C35",
+      "value_file1": "X379",
+      "value_file2": null
+    },
+    {
+      "row_index": 249,
+      "column": "C35",
+      "value_file1": "X758",
+      "value_file2": null
+    },
+    {
+      "row_index": 374,
+      "column": "C35",
+      "value_file1": "X138",
+      "value_file2": null
+    },
+    {
+      "row_index": 499,
+      "column": "C35",
+      "value_file1": "X517",
+      "value_file2": null
+    },
+    {
+      "row_index": 624,
+      "column": "C35",
+      "value_file1": "X896",
+      "value_file2": null
+    },
+    {
+      "row_index": 749,
+      "column": "C35",
+      "value_file1": "X276",
+      "value_file2": null
+    },
+    {
+      "row_index": 874,
+      "column": "C35",
+      "value_file1": "X655",
+      "value_file2": null
+    },
+    {
+      "row_index": 999,
+      "column": "C35",
+      "value_file1": "X35",
+      "value_file2": null
+    }
+  ],
+  "stats": {
+    "rows_compared": 1000,
+    "common_columns": 50,
+    "extra_columns_file1": 0,
+    "extra_columns_file2": 0,
+    "mismatch_cells": 124,
+    "missing_rows_file2": 0,
+    "missing_rows_file1": 0
+  }
+}
